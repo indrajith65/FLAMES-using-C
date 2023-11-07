@@ -9,3 +9,8 @@ The "FLAMES" game is a popular pastime often used to predict the potential roman
 - Count the remaining letters.
 - Use the FLAMES acronym (Friendship, Love, Affection, Marriage, Enmity, Sister) to determine the relationship outcome.
 - After cancelling each letter based on the count, the last remaining letter's acronym will be considered as relationship type.
+
+## Example
+Enter the first name: John
+Enter the second name: Mary
+Result: AFFECTIONATE
