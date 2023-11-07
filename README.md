@@ -1,7 +1,6 @@
 # FLAMES Game in C
 The "FLAMES" game is a popular pastime often used to predict the potential romantic compatibility or relationship between two individuals' names. The name "FLAMES" is an acronym representing different stages of a relationship: Friend, Love, Affection, Marriage, Enemy, and Sister.
 
-![image](https://github.com/indrajith65/FLAMES-using-C/assets/42492107/ce78203d-0f24-43ff-a7bf-4f4692193d32)
 
 ## How the Game Works
 
@@ -17,4 +16,5 @@ Enter the second name: Mary
 Result: AFFECTIONATE    
   
 This code was developed by me in June 2018. This would showcase my logical skill and problem solving skill.  
-![Uploading image.png…]()
+
+![image](https://github.com/indrajith65/FLAMES-using-C/assets/42492107/ce78203d-0f24-43ff-a7bf-4f4692193d32)
