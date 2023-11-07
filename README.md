@@ -11,6 +11,6 @@ The "FLAMES" game is a popular pastime often used to predict the potential roman
 - After cancelling each letter based on the count, the last remaining letter's acronym will be considered as relationship type.
 
 ## Example
--Enter the first name: John
--Enter the second name: Mary
--Result: AFFECTIONATE
+Enter the first name: John  
+Enter the second name: Mary  
+Result: AFFECTIONATE  
