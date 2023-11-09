@@ -17,4 +17,3 @@ Result: AFFECTIONATE
   
 This code was developed by me in June 2018. This would showcase my logical skill and problem solving skill.  
 
-![image](https://github.com/indrajith65/FLAMES-using-C/assets/42492107/ce78203d-0f24-43ff-a7bf-4f4692193d32)
